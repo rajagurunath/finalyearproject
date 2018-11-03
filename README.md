@@ -17,13 +17,13 @@ probability of false alarm(PFA) and probability of detection(PD) for secondary u
 
 ## Simulations and Results
 Architecture of our proposed methods
-![architecture](FIG\architecture.png)
+![architecture](https://github.com/rajagurunath/finalyearproject/tree/master/FIG/architecture.png)
 
 ## flow chart of the Techniques used
-![architecture](FIG\flow_chart.png)
+![flow chart](https://github.com/rajagurunath/finalyearproject/tree/master/FIG/flow_chart.png)
 
 ## Simulation Results
-![architecture](FIG\simulation.png)
+![simulation](https://github.com/rajagurunath/finalyearproject/tree/master/FIG/simulation.png)
 
 ## Final Results
-![architecture](FIG\Final_result.png)
+![final result](https://github.com/rajagurunath/finalyearproject/tree/master/FIG/Final_result.png)
